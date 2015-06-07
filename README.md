@@ -1,1 +1,8 @@
-# StudentFormula
+test
+=====
+
+Gitのテスト
+
+##メンバ
+
+*testmem
